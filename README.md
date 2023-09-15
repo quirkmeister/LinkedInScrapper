@@ -31,16 +31,16 @@ As written in [Linkedin User Agreement](https://www.linkedin.com/legal/user-agre
 
 # Table of Contents
 
-- [Usage](https://github.com/J4NN0/linkedin-web-scraper#usage)
-- [Troubleshooting](https://github.com/J4NN0/linkedin-web-scraper#troubleshooting)
-- [Resources](https://github.com/J4NN0/linkedin-web-scraper#resources)
+- [Usage](https://github.com/dennisdejeng/LinkedInScrapper#usage)
+- [Troubleshooting](https://github.com/dennisdejeng/LinkedInScrapper#troubleshooting)
+- [Resources](https://github.com/dennisdejeng/LinkedInScrapper#resources)
 
 # Usage
 
 1. Clone project
 
-       git clone https://github.com/J4NN0/linkedin-web-scraper.git
-       cd linkedin-web-scraper
+       git clone https://github.com/dennisdejeng/LinkedInScrapper.git
+       cd LinkedInScrapper
     
 2. Install requirements
 
